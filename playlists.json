@@ -1,0 +1,6 @@
+{
+  "playlists": [
+    { "id": "default", "name": "Default", "file": "playlists/default.json" },
+    { "id": "music", "name": "Music", "file": "playlists/music.json" }
+  ]
+}
